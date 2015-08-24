@@ -37,7 +37,7 @@
     "sinon": "^1.15.4"
   },
   "dependencies": {
-    "buildmail": "^1.2.4",
+    "buildmail": "ydw223/buildmail",
     "hyperquest": "^1.2.0",
     "libmime": "^1.0.0",
     "nodemailer-direct-transport": "^1.0.2",
